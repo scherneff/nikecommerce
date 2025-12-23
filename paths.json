@@ -10,10 +10,10 @@
       "/content/nike-commerce/placeholders:/placeholders.json",
       "/content/nike-commerce/products/recommended-products:/products/recommended-products.json",
       "/content/nike-commerce/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/nike-commerce/images/products/:/images/products/"
+      "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
       "/content/nike-commerce",
-      "/content/dam/nike-commerce/images/products/"
+      "/content/dam/citisignal/images/products/"
     ]
 }
