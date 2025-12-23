@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one/:/",
-      "/content/citisignal-one/configuration:/.helix/config.json",
-      "/content/citisignal-one/metadata:/metadata.json",
-      "/content/citisignal-one/configs:/configs.json",
-      "/content/citisignal-one/configs-stage:/configs-stage.json",
-      "/content/citisignal-one/configs-dev:/configs-dev.json",
-      "/content/citisignal-one/redirects:/redirects.json",
-      "/content/citisignal-one/placeholders:/placeholders.json",
-      "/content/citisignal-one/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/nike-commerce/:/",
+      "/content/nike-commerce/configuration:/.helix/config.json",
+      "/content/nike-commerce/metadata:/metadata.json",
+      "/content/nike-commerce/configs:/configs.json",
+      "/content/nike-commerce/configs-stage:/configs-stage.json",
+      "/content/nike-commerce/configs-dev:/configs-dev.json",
+      "/content/nike-commerce/redirects:/redirects.json",
+      "/content/nike-commerce/placeholders:/placeholders.json",
+      "/content/nike-commerce/products/recommended-products:/products/recommended-products.json",
+      "/content/nike-commerce/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/dam/nike-commerce/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one",
-      "/content/dam/citisignal/images/products/"
+      "/content/nike-commerce",
+      "/content/dam/nike-commerce/images/products/"
     ]
 }
